@@ -19,26 +19,21 @@
 }
 
 .box {
-  /*Sets the height and width of the section */
   width: 200px;
-  height: 200px
+  height: 200ps
 }
 
 .box-blue {
-  /* Sets font color */
-  color: white;
-  /* Sets background color */
-  background-color: #0000ff;
+  color: white
+  background-color: #000ff;
 }
 
 .box-orange {
-  /* Uses hex codes to define color */
-  color: #0000ff;
+  color: #000ff;
   background-color: #ffa500;
 }
 
 #box-yellow {
-  /* Uses predefined colors to define color */
-  color: purple;
-  background-color: yellow;
-};
+color: purple;
+background-color: yellow;
+}
